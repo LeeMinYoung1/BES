@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Jangchaeyun/sneakers-shop.git"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\zzang\git\sneakers-shop\.git">
+			<item value="false"/>
+			<item value="zzangsally &lt;zzangsally@gmail.com&gt;"/>
+			<item value="&#x0D;&#x0A;&#x0D;&#x0A;Change-Id: I0000000000000000000000000000000000000000&#x0D;&#x0A;Signed-off-by: zzangsally &lt;zzangsally@gmail.com&gt;&#x0D;&#x0A;"/>
+			<item value="zzangsally &lt;zzangsally@gmail.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
